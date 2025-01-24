@@ -32,7 +32,6 @@ public class Main {
         session.persist(dept1);
         session.persist(dept2);
 
-
 //        storing teachers in database
         session.persist(t1);
         session.persist(t2);
